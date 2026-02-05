@@ -9,6 +9,4 @@ Copy and paste the system into your level and enable 2-Player mode. Move each St
 
 Download link (Mediafire)
 ---
-Click here to get the level where you can find this API preview.
-
-https://www.mediafire.com/file/rhql9e46nocq5x0/Unnamed+150.gmd/file
+Click [here](https://www.mediafire.com/file/rhql9e46nocq5x0/Unnamed+150.gmd/file) to get the level where you can find this API preview.
